@@ -1,0 +1,4 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "c:\\django\\forum\\env\\Scripts\\python.exe"
+}
